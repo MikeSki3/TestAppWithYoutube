@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 	ArrayList<YouTubeThumbnailView> thumbViews = new ArrayList<YouTubeThumbnailView>();
 	YouTubeThumbnailLoader thumbnailLoader;
 	
-	public final String DEV_KEY = "AIzaSyCCKxzeVDL0GfJGfVnE9J-xVMkvBrO4c-s";
+	public final String DEV_KEY = "";
 	public final String PLAYLIST_ID = "PLAC90ED58CDC8A748";
 
 	@Override
